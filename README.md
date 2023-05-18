@@ -1,2 +1,2 @@
 # Feature-Selection-methods-project
-Studies project about comparing different feature selection algorithms on artificial datasets.
+Project for studies course Andvanced Machine Learning about comparing different feature selection algorithms on artificial datasets.
